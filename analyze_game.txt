@@ -1,0 +1,10 @@
+How well did your interface work?
+    Our interface did not work very well
+Did it recognize your facial expressions with the same accuracy as it achieved against the test set?
+    No, we got a 0% accuracy on facial expressions other than neutral. It thought every emotion was neutral
+If not, why not?
+    Maybe the model needs better training, doesn't recognize the features on my face. I saw in the discord
+    some students were having similar issues with accuracy in the TicTacToe game.
+
+
+Currently a problem with sizing the image.
